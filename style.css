@@ -1,0 +1,48 @@
+
+body {
+
+    color: #383e45;
+    font-size: 0.9rem;
+}
+
+
+
+img {
+    max-width: 100%;
+    
+}
+
+.logo{
+    float: left;
+    width: 120px;   
+    margin: 10px 0;
+    margin-left: 47px;
+ }
+ 
+
+.list{
+    float: right;
+    width: 154px;
+    height: 42px;
+    margin-right: 47px;
+    }
+ul{
+    list-style: none;
+    display: flex;
+    gap: 0px 15px;
+}
+l
+
+
+    .header{
+    height: 60px;    
+    width: 960px;
+    margin: auto;
+    }
+
+
+    .mainvisual{
+    width: 100%;
+    
+    
+    }
